@@ -12,7 +12,7 @@
 - 🌱 I’m continuously learning **Quantum & Gen AI Research**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, LLMs, and Quantum AI**
 - 📫 Reach me at **thirudilak131@gmail.com** or 📞 **+94 788702104**
-- 🔗 Connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dilaksan-thirugnanaselvam-65641b262)
+- 🔗 Connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilaksan-thirugnanaselvam-65641b262/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
