@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilaksan Thirugnanaselvam</h1>
+<p align="center">
+  <a href="https://dilaksan-thirugnanaselvam.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" />
+  </a>
+</p>
 
 <h3 align="center">Self-motivated AI researcher & engineer | Python, Mathematics & Quantum AI | Passionate about Generative AI</h3>
 
