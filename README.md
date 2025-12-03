@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm priyanthan</h1>
+<h1 align="center">Hi 👋, I'm Dilaksan Thirugnanaselvam</h1>
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)]
 
@@ -8,11 +8,12 @@
 
 - 💬 Ask me about **python, machine learning, Deep learning, NLP and LLM**
 
-- 📫 How to reach me **govindarajpriyanthan@gmail.com**
+- 📫 How to reach me **thirudilak131@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanthan-govindaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanthan-govindaraj-016aba223?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn6tzji%2fdsf2altmdokn4ya%3d%3d" height="30" width="40" /></a>
+<a href="linkedin.com/in/dilaksan-thirugnanaselvam-65641b262
+/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanthan-govindaraj-016aba223?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn6tzji%2fdsf2altmdokn4ya%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
